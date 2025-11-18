@@ -1,0 +1,8 @@
+fastapi
+onnx
+onnxruntime
+onnxruntime-gpu
+python-multipart
+torchaudio
+transformers
+uvicorn
